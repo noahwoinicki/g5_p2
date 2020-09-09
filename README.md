@@ -10,5 +10,6 @@ update test
 
 [Trent's Resume txt](TrentResume.txt)
 
+<br>
 
 [Ricardo's Resume](RicardoResume.txt)
