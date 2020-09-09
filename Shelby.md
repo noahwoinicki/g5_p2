@@ -3,9 +3,9 @@ Shelby Kawejsza
 
 Summary of Qualificaitons______________________________________________________
 Skills:
-• Really good at recognizing a song but not being able to name the artist or song
-• I bake good..mostly but I'll share
-• Perfectionist with a ken I for details
+* Really good at recognizing a song but not being able to name the artist or song
+* I bake good..mostly but I'll share
+* Perfectionist with a ken I for details
 • I can google like a pro
 • I can ride a bicycle...I think.. it's been a while
 • Fluent in English. Also I have been heard muttering Gibberish in my sleep
@@ -21,12 +21,12 @@ Major: Technology Management
 Minors: Business and Cyber Security
  
 Experience____________________________________________________________________
-• Computer Wizard                                        	
-• She Who Gets Shite Done
-	Completing work right on time always, even if it seems impossible.
-• Her Supreme Omniscience
-	Answering questions about anything from anyone(helpdesk).
-• Cat Whisperer
-	They just seem to like me
+* Computer Wizard                                        	
+* She Who Gets Shite Done
+	* Completing work right on time always, even if it seems impossible.
+* Her Supreme Omniscience
+	* Answering questions about anything from anyone(helpdesk).
+* Cat Whisperer
+	* They just seem to like me
 
 	
