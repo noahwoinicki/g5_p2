@@ -1,7 +1,6 @@
 # g5_p2
 TCMG 412 Group 5 Project 2
-DevTeam and OpsTeam Combine
-https://noahwoinicki.github.io/g5_p2/
+DevTeam and OpsTeam Combine [Project](https://noahwoinicki.github.io/g5_p2/)
 
 update test
 
