@@ -1,3 +1,10 @@
+---
+title: Shelby's Resume
+layout: template
+filename: Shelby.md FILE HERE
+--- 
+
+
 Shelby Kawejsza
 (736) 598 1272 | ShelbyKay@hotmail.com
 
