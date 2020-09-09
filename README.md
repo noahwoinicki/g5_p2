@@ -9,4 +9,6 @@ update test
 
 
 [Trent's Resume txt](TrentResume.txt)
+
+
 [Ricardo's Resume txt](RicardoResume.txt)
