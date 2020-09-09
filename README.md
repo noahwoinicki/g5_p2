@@ -9,3 +9,6 @@ update test
 
 
 [Trent's Resume txt](Trent's-Resume.txt)
+
+Ricardo's Resume Link
+  https://github.com/noahwoinicki/g5_p2/blob/master/Ricardo's%20Resume
