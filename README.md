@@ -4,5 +4,4 @@ DevTeam and OpsTeam Combine
 
 update test
 
-![Image of Leader]
-(https://github.com/noahwoinicki/g5_p2/blob/master/leader.JPG)
+![Image of Leader](https://github.com/noahwoinicki/g5_p2/blob/master/leader.JPG?raw=true)
