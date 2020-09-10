@@ -9,15 +9,15 @@ update test
 
 [Amy's Resume](AmyResume.txt)
 <br>
-[Matthew's Resume](https://github.com/noahwoinicki/g5_p2/blob/master/Matthew's%20Resume)
+[Matthew's Resume](MatthewResume.txt)
 <br>
-[Mubtasim's Resume](https://github.com/noahwoinicki/g5_p2/blob/master/Mubtasim's%20Resume)
+[Mubtasim's Resume](MubtasimResume.txt)
 <br>
-[Noah's Resume](https://github.com/noahwoinicki/g5_p2/blob/master/Noah's%20Resume)
+[Noah's Resume](NoahResume.txt)
 <br>
 [Ricardo's Resume](RicardoResume.txt)
 <br>
-[Shelby's Resume](https://github.com/noahwoinicki/g5_p2/blob/master/Shelby's%20Resume)
+[Shelby's Resume](ShelbyResume.txt)
 <br>
 [Trent's Resume](TrentResume.txt)
 
