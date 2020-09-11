@@ -31,4 +31,4 @@ testing
 
 
 
-{% include Members.txt %}
+{% include Members.md %}
