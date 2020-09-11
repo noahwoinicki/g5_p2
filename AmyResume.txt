@@ -4,12 +4,12 @@ Amy He
 Objective_______________________________________________________________
 - Acquire a student technician position in Information Technology
 
-Summary of Qualifications______________________________________________________
+Summary of Qualifications_______________________________________________
 - Great customer service
 - Have you tried rebooting your computer
 - Texting 98% of the time at work
 
-Education_____________________________________________________________________ 
+Education_______________________________________________________________
 Texas A&M Online University (2017-2021)
 Major: Technology Management
 Minors: Business
@@ -18,7 +18,7 @@ Relevant Coursework
  - Stack Overflow
  - Coding for Dummies
  
-Experience____________________________________________________________________
+Experience______________________________________________________________
  - McDonalds General Manager (2018 - current)
    - Broke the ice cream machine
 
