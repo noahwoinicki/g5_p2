@@ -1,22 +1,35 @@
-Group 5 Team Member Names
+## Group 5 Team Member Names
 
 Name: Amy He
-Position: Contributor
-
+<br>
+[Amy's Resume](AmyResume.txt)
+<br>
+<br>
 Name: Matthew Phillips
-Position: TBA
-
+<br>
+[Matthew's Resume](MatthewResume.txt)
+<br>
+<br>
 Name: Ricardo Duenez
-Position: Ops
-
+<br>
+[Ricardo's Resume](RicardoResume.txt)
+<br>
+<br>
 Name: Mubtasim Abrar
-Position: Contributer
-
+<br>
+[Mubtasim's Resume](MubtasimResume.txt)
+<br>
+<br>
 Name: Shelby Kawejsza
-Position:TBA
-
+<br>
+[Shelby's Resume](ShelbyResume.txt)
+<br>
+<br>
 Name: Trent Secton
-Position:
-
+<br>
+[Trent's Resume](TrentResume.txt)
+<br>
+<br>
 Name: Noah Woinicki
-Position: Communicaitons
+<br>
+[Noah's Resume](NoahResume.txt)
