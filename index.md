@@ -29,6 +29,6 @@ testing
 [Trent's Resume](TrentResume.txt)
 
 
-
+yup
 
 {% include Member.md %}
