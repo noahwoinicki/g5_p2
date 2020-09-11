@@ -25,7 +25,7 @@ Name: Shelby Kawejsza
 [Shelby's Resume](ShelbyResume.txt)
 <br>
 <br>
-Name: Trent Secton
+Name: Trent Sexton
 <br>
 [Trent's Resume](TrentResume.txt)
 <br>
