@@ -2,8 +2,7 @@
 layout: default
 ---
 
-TCMG 412 Group 5 
-Project 2
+##TCMG 412 Group 5: Project 2
 DevOpsTeam 
 <br>
 [Project Github](https://github.com/noahwoinicki/g5_p2)
